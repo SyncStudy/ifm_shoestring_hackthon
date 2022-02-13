@@ -1,3 +1,5 @@
+In our solution based on plotly, dash and influxdb, the user will firstly generate the specifications for different robots, and then a wide range of interactive visualizations for different machines for machine power, machine cost, and total cost based on the energy time and total energy getting dynamically from sensors. If a threshold is met, the alert email is generated for further operation.
+
 
 ## Introduction
 `dash-manufacture-spc-dashboard` is a dashboard for monitoring read-time process quality along manufacture production line. 
